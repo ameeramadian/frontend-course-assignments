@@ -1,3 +1,7 @@
+* {
+		box-sizing: border-box;
+}
+
 .navbar-brand {
 	padding: 16px;
 	padding-left: 30px;
@@ -14,6 +18,7 @@
 }
 
 .section-item{
+	box-sizing: border-box;
 	margin:  48px 24px;
 	padding: 24px;
 	font-size: 1.2em;

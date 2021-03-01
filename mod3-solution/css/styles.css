@@ -1,0 +1,20 @@
+.navbar-brand {
+	padding: 16px;
+	padding-left: 30px;
+}
+
+#menu-title {
+	margin-top: 24px;
+
+}
+
+.col-xs-12 {
+	background: #CDD2D5;
+
+}
+
+.section-item{
+	margin:  48px 24px;
+	padding: 24px;
+	font-size: 1.2em;
+}
